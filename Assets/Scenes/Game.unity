@@ -9199,14 +9199,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1334422025}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: -0.99266744, z: -0, w: 0.120877415}
   m_LocalPosition: {x: -39.38, y: 0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 415157448}
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -166.11401, z: 0}
 --- !u!4 &1336786052 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7050981784890015678, guid: cb90cdf992f2bcd46ad3def147870522,
